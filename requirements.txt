@@ -1,0 +1,8 @@
+torch>=2.2
+torchvision>=0.17
+nibabel>=3.2
+numpy>=1.21
+matplotlib>=3.5
+scikit-image>=0.19
+tqdm>=4.64
+kaggle>=1.5

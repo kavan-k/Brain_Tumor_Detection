@@ -1,0 +1,9 @@
+brats_data/
+Lib/
+Scripts/
+Include/
+__pycache__/
+pyvenv.cfg
+.vscode/
+share/
+output/
